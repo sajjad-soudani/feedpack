@@ -1,2 +1,2 @@
 # feedpack
-feedback form. just another weekend project. Vite + Qwik + UnoCSS
+feedback tool. just another weekend project. Vite + Qwik + UnoCSS
